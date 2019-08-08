@@ -14,6 +14,7 @@
 		6A67940F22FC4CEB0024842D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A67940D22FC4CEB0024842D /* LaunchScreen.storyboard */; };
 		6A67941A22FC4CEB0024842D /* HttpScbTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A67941922FC4CEB0024842D /* HttpScbTests.swift */; };
 		6A67942522FC4CEB0024842D /* HttpScbUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A67942422FC4CEB0024842D /* HttpScbUITests.swift */; };
+		6A67943322FC4E030024842D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6A67943222FC4E030024842D /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6A67942022FC4CEB0024842D /* HttpScbUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HttpScbUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A67942422FC4CEB0024842D /* HttpScbUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpScbUITests.swift; sourceTree = "<group>"; };
 		6A67942622FC4CEB0024842D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A67943222FC4E030024842D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6A67940B22FC4CEB0024842D /* Assets.xcassets */,
 				6A67940D22FC4CEB0024842D /* LaunchScreen.storyboard */,
 				6A67941022FC4CEB0024842D /* Info.plist */,
+				6A67943222FC4E030024842D /* .gitignore */,
 			);
 			path = HttpScb;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A67943322FC4E030024842D /* .gitignore in Resources */,
 				6A67940F22FC4CEB0024842D /* LaunchScreen.storyboard in Resources */,
 				6A67940C22FC4CEB0024842D /* Assets.xcassets in Resources */,
 				6A67940A22FC4CEB0024842D /* Main.storyboard in Resources */,
