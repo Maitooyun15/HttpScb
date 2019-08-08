@@ -6,8 +6,28 @@
 	<dict>
 		<key>HttpScb.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6A67940022FC4CEB0024842D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6A67941422FC4CEB0024842D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6A67941F22FC4CEB0024842D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
