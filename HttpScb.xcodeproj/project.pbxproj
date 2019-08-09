@@ -73,6 +73,7 @@
 		618E2AA3B56B5DAC6D644576 /* Pods-HttpScb.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HttpScb.debug.xcconfig"; path = "Target Support Files/Pods-HttpScb/Pods-HttpScb.debug.xcconfig"; sourceTree = "<group>"; };
 		64BE094F985879ED113286AA /* Pods_HttpScbTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HttpScbTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		679F302EF548A764B4E189C6 /* Pods-HttpScbUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HttpScbUITests.debug.xcconfig"; path = "Target Support Files/Pods-HttpScbUITests/Pods-HttpScbUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		6A5BFC1F22FD1730004DD44F /* HttpScb */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HttpScb; sourceTree = "<group>"; };
 		6A67940122FC4CEB0024842D /* HttpScb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HttpScb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A67940422FC4CEB0024842D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6A67940622FC4CEB0024842D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -128,6 +129,7 @@
 		29835CA0BBA9BF3ED461058B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6A5BFC1F22FD1730004DD44F /* HttpScb */,
 				6ACC737C22FC5FED00812AA7 /* Pods.xcodeproj */,
 				6ACC737722FC5CF400812AA7 /* Alamofire */,
 				6ACC737322FC5C6000812AA7 /* HttpScb.xcodeproj */,
